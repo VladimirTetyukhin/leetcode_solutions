@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "xtree": "cpp",
+        "set": "cpp",
+        "algorithm": "cpp",
+        "initializer_list": "cpp",
+        "xlocale": "cpp",
+        "string": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "cstdlib": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
